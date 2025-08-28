@@ -1,0 +1,8 @@
+workflow-aggregator
+git
+github
+github-branch-source
+pipeline-github-lib
+credentials-binding
+docker-workflow
+amazon-ecr
